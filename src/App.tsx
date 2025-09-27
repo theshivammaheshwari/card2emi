@@ -516,7 +516,7 @@ function App() {
                       <p className="text-2xl md:text-3xl font-bold">
                         <AnimatedValue value={personalLoanResults.monthlyEmi} />
                       </p>
-                      <p className="text-green-100 text-sm mt-2">EMI (ex-GST)</p>
+                      <p className="text-green-100 text-sm mt-2">EMI</p>
                     </div>
 
                     <div className="bg-gradient-to-r from-orange-500 to-orange-600 rounded-2xl shadow-xl p-6 text-white transform hover:scale-105 transition-all duration-300">
